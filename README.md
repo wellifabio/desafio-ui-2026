@@ -66,6 +66,6 @@ Serão avaliados os seguintes pontos:
 
 ## Como Entregar
 
-1. Crie um fork deste repositório.
+1. Clone este repositório no seu computador.
 2. Implemente a solução.
-3. Faça commits frequentes e claros.
+3. Envie para um repositório do GitHub, habilite o gitpages e envie o link do gitpages**[neste formulário]()**
